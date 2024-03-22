@@ -23,6 +23,7 @@ uploads/user_avatar
 outputFiles
 
 # API keys and secrets
+config/key.yaml
 .env
 
 # Dependency directory
